@@ -1,7 +1,7 @@
 {
   "name": "@mathewsfpereira/swcify",
   "description": "SWC browserify transform",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Dmitry Yvanov <dfcreative@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/swc-project/swcify",
