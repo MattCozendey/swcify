@@ -1,5 +1,5 @@
 {
-  "name": "swcify",
+  "name": "@mathewsfpereira/swcify",
   "description": "SWC browserify transform",
   "version": "1.0.1",
   "author": "Dmitry Yvanov <dfcreative@gmail.com>",
